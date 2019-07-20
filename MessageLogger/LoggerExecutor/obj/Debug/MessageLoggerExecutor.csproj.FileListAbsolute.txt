@@ -1,0 +1,8 @@
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\LoggerExecutor\bin\Debug\LoggerExecutor.exe.config
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\LoggerExecutor\bin\Debug\LoggerExecutor.exe
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\LoggerExecutor\bin\Debug\LoggerExecutor.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\LoggerExecutor\bin\Debug\MessageLogger.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\LoggerExecutor\bin\Debug\MessageLogger.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\LoggerExecutor\obj\Debug\MessageLoggerExecutor.csprojResolveAssemblyReference.cache
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\LoggerExecutor\obj\Debug\LoggerExecutor.exe
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\LoggerExecutor\obj\Debug\LoggerExecutor.pdb

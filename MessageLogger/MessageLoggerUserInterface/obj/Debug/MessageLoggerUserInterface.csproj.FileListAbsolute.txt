@@ -1,0 +1,15 @@
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\bin\Debug\MessageLoggerUserInterface.exe.config
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\bin\Debug\MessageLoggerUserInterface.exe
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\bin\Debug\MessageLoggerUserInterface.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\obj\Debug\MessageLoggerUserInterface.csprojResolveAssemblyReference.cache
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\obj\Debug\MainWindow.baml
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\obj\Debug\MainWindow.g.cs
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\obj\Debug\App.g.cs
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\obj\Debug\MessageLoggerUserInterface_MarkupCompile.cache
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\obj\Debug\MessageLoggerUserInterface.g.resources
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\obj\Debug\MessageLoggerUserInterface.Properties.Resources.resources
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\obj\Debug\MessageLoggerUserInterface.csproj.GenerateResource.Cache
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\obj\Debug\MessageLoggerUserInterface.exe
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\obj\Debug\MessageLoggerUserInterface.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\bin\Debug\MessageLogger.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLoggerUserInterface\bin\Debug\MessageLogger.pdb

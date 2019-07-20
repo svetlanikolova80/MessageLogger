@@ -1,0 +1,24 @@
+<log>
+    <message>Out of memory</message>
+    <issueLevel>Critical</issueLevel>
+    <date>8/17/2015 11:38:40 AM</date>
+</log>
+
+<log>
+    <message>Unused local variable 'name'</message>
+    <issueLevel>Info</issueLevel>
+    <date>8/17/2015 11:38:40 AM</date>
+</log>
+
+{
+    "message" : "Out of memory"
+    "issueLevel" : "Critical"
+    "date" : "8/17/2015 12:26:07 PM"
+}
+
+{
+    "message" : "Unused local variable 'name'"
+    "issueLevel" : "Info"
+    "date" : "8/17/2015 12:26:07 PM"
+}
+

@@ -1,0 +1,6 @@
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\bin\Debug\SOLIDLogger.exe.config
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\bin\Debug\SOLIDLogger.exe
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\bin\Debug\SOLIDLogger.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\obj\Debug\SOLIDLogger.csprojResolveAssemblyReference.cache
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\obj\Debug\SOLIDLogger.exe
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\obj\Debug\SOLIDLogger.pdb

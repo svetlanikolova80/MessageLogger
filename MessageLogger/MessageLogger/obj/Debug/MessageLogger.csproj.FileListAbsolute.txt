@@ -1,0 +1,12 @@
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\bin\Debug\SOLIDLogger.exe.config
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\bin\Debug\SOLIDLogger.exe
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\bin\Debug\SOLIDLogger.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\obj\Debug\SOLIDLogger.exe
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\obj\Debug\SOLIDLogger.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\SOLIDLogger\SOLIDLogger\obj\Debug\MessageLogger.csprojResolveAssemblyReference.cache
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLogger\bin\Debug\MessageLogger.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLogger\obj\Debug\MessageLogger.pdb
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLogger\bin\Debug\MessageLogger.dll.config
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLogger\bin\Debug\MessageLogger.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLogger\obj\Debug\MessageLogger.dll
+D:\Dynamo6Core\Prototypes\skn\Experiments\MessageLogger\MessageLogger\obj\Debug\MessageLogger.csprojResolveAssemblyReference.cache
